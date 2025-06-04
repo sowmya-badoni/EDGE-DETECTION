@@ -1,6 +1,6 @@
 # EDGE-DETECTION
-### Name - Ashwina K N 
-### Register Number - 212223230025
+### Name - SOWMYA BADONI
+### Register Number - 212223230211
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
